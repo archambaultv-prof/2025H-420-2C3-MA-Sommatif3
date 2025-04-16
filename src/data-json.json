@@ -1,0 +1,82 @@
+[
+    {
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "details": {
+            "genre": "Fiction",
+            "année": 1943
+        }
+    },
+    {
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "details": {
+            "genre": "Dystopie",
+            "année": 1949
+        }
+    },
+    {
+        "titre": "Moby Dick",
+        "auteur": "Herman Melville",
+        "details": {
+            "genre": "Aventure",
+            "année": 1851
+        }
+    },
+    {
+        "titre": "Pride and Prejudice",
+        "auteur": "Jane Austen",
+        "details": {
+            "genre": "Romance",
+            "année": 1813
+        }
+    },
+    {
+        "titre": "Harry Potter à l'école des sorciers",
+        "auteur": "J.K. Rowling",
+        "details": {
+            "genre": "Fantastique",
+            "année": 1997
+        }
+    },
+    {
+        "titre": "Le Seigneur des Anneaux",
+        "auteur": "J.R.R. Tolkien",
+        "details": {
+            "genre": "Fantasy",
+            "année": 1954
+        }
+    },
+    {
+        "titre": "Les Misérables",
+        "auteur": "Victor Hugo",
+        "details": {
+            "genre": "Drame",
+            "année": 1862
+        }
+    },
+    {
+        "titre": "Don Quichotte",
+        "auteur": "Miguel de Cervantes",
+        "details": {
+            "genre": "Aventure",
+            "année": 1605
+        }
+    },
+    {
+        "titre": "L'Alchimiste",
+        "auteur": "Paulo Coelho",
+        "details": {
+            "genre": "Philosophie",
+            "année": 1988
+        }
+    },
+    {
+        "titre": "La Divine Comédie",
+        "auteur": "Dante Alighieri",
+        "details": {
+            "genre": "Poésie",
+            "année": 1320
+        }
+    }
+]
